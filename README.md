@@ -17,3 +17,5 @@ This is a simple web project, deployment can be on any server or even local file
 
 ## How To Contribute
 
+This tells how to contribute
+
